@@ -1,6 +1,8 @@
-# Elm App
+# Elm App with Ionic 4
 
 From [an article](https://bendyworks.com/blog/ionic-4-elm)
+
+[Demo](https://ionic-4-elm.surge.sh/)
 
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
 
